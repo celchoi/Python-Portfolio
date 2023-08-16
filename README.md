@@ -1,1 +1,1 @@
-# Jupyter-Notebook-Projects
+# Python-Jupyter-Notebook-Projects
